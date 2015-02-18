@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Date Picker Sample</string>
+
+    <string name="txtIndication">Chose a date and press Set!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSet">Set !</string>
+</resources>
